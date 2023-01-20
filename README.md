@@ -6,7 +6,7 @@
 [![GITHUB](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HCezarSilva)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-cezar-362180b9)
 
-![Hiago Cezar GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Hiago Cezar GitHub stats](https://github-readme-stats.vercel.app/api?username=HCezarSilva&show_icons=true&theme=radical)
 
 ## Tacnologias
 
